@@ -1,0 +1,341 @@
+[{
+    "name": "Arsenal",
+    "fullName": "Arsenal",
+    "nickName": "ARS",
+    "stadiumInfo": {
+        "name": "Emirates Stadium",
+        "capacity": 60260,
+        "built": "2006",
+        "pitchSize": "105m x 68m",
+        "address": "Highbury House, 75 Drayton Park, London, N5 1BU"
+    },
+    "contact": {
+        "phone": "+44 (0) 20 7619 5003",
+        "officialWebsite": "www.arsenal.com"
+    }
+    
+},
+{
+    "name": "Aston Villa",
+    "fullName": "Aston Villa",
+    "nickName": "AST",
+    "stadiumInfo": {
+        "name": " Villa Park",
+        "capacity": 42682,
+        "built": "1897",
+        "pitchSize": "105m x 68m",
+        "address": "Villa Park, Trinity Road, Birmingham, B6 6HE"
+    },
+    "contact": {
+        "phone": "+44 (0)121 327 5353",
+        "officialWebsite": "www.avfc.co.uk"
+    }
+    
+},
+{
+    "name": "Brighton",
+    "fullName": "Brighton and Hove Albion",
+    "nickName": "BRI",
+    "stadiumInfo": {
+        "name": "Amex Stadium",
+        "capacity": 30666,
+        "built": "2011",
+        "pitchSize": "105m x 68m",
+        "address": "American Express Community Stadium, Village Way, Brighton, BN1 9BL"
+    },
+    "contact": {
+        "phone": "+44 (0) 344 324 6282",
+        "officialWebsite": "www.brightonandhovealbion.com"
+    }
+    
+},
+{
+    "name": "Burnley",
+    "fullName": "Burnley",
+    "nickName": "BUR",
+    "stadiumInfo": {
+        "name": "Turf Moor",
+        "capacity": 21944,
+        "built": "1883",
+        "pitchSize": "105m x 68m",
+        "address": "Turf Moor, Harry Potts Way, Burnley, Lancashire, BB10 4BX"
+    },
+    "contact": {
+        "phone": "+44 (0) 871 221 1882",
+        "officialWebsite": "www.burnleyfootballclub.com"
+    }
+    
+},
+{
+    "name": "Chelsea",
+    "fullName": "Chelsea",
+    "nickName": "CHE",
+    "stadiumInfo": {
+        "name": "Stamford Bridge",
+        "capacity": 40853,
+        "built": "1877",
+        "pitchSize": "103m x 67.5m",
+        "address": "Stamford Bridge, Fulham Road, London, SW6 1HS"
+    },
+    "contact": {
+        "phone": "0371 811 1955",
+        "officialWebsite": "www.chelseafc.com"
+    }
+    
+},
+{
+    "name": "Crystal Palace",
+    "fullName": "Crystal Palace",
+    "nickName": "CRY",
+    "stadiumInfo": {
+        "name": "Selhurst Park",
+        "capacity": 25486,
+        "built": "1924",
+        "pitchSize": "101m x 68m",
+        "address": "Selhurst Park Stadium, Holmesdale Road, London, SE25 6PU"
+    },
+    "contact": {
+        "phone": "+44 (0) 20 8768 6000",
+        "officialWebsite": "www.cpfc.co.uk"
+    }
+    
+},
+{
+    "name": "Everton",
+    "fullName": "Everton",
+    "nickName": "EVE",
+    "stadiumInfo": {
+        "name": "Goodison Park",
+        "capacity": 39221,
+        "built": "1892",
+        "pitchSize": "100.48m x 68m",
+        "address": "Goodison Park, Goodison Road, Liverpool, L4 4EL"
+    },
+    "contact": {
+        "phone": "+44 (0) 151 556 1878",
+        "officialWebsite": "www.evertonfc.com"
+    }
+    
+},
+{
+    "name": "Fulham",
+    "fullName": "Fulham",
+    "nickName": "FUL",
+    "stadiumInfo": {
+        "name": "Craven Cottage",
+        "capacity": 19000,
+        "built": "1896",
+        "pitchSize": "100m x 65m",
+        "address": "Stevenage Road, London, SW6 6HH"
+    },
+    "contact": {
+        "phone": "0843 208 1222",
+        "officialWebsite": "www.fulhamfc.com"
+    }
+    
+},
+{
+    "name": "Leeds",
+    "fullName": "Leeds United",
+    "nickName": "LEE",
+    "stadiumInfo": {
+        "name": "Elland Road",
+        "capacity": 37890,
+        "built": "1897",
+        "pitchSize": "106m x 69m",
+        "address": "Elland Road, Leeds, LS11 0ES"
+    },
+    "contact": {
+        "phone": "0871 334 1919",
+        "officialWebsite": "www.leedsunited.com"
+    }
+    
+},
+{
+    "name": "Leicester",
+    "fullName": "Leicester City",
+    "nickName": "LEI",
+    "stadiumInfo": {
+        "name": "King Power Stadium",
+        "capacity": 32273,
+        "built": "2002",
+        "pitchSize": "105m x 68m",
+        "address": "King Power Stadium, Filbert Way, Leicester, LE2 7FL"
+    },
+    "contact": {
+        "phone": "+44 (0) 344 815 5000",
+        "officialWebsite": "www.lcfc.com"
+    }
+    
+},
+{
+    "name": "Liverpool",
+    "fullName": "Liverpool",
+    "nickName": "LIV",
+    "stadiumInfo": {
+        "name": "Anfield",
+        "capacity": 53394,
+        "built": "1884",
+        "pitchSize": "101m x 68m",
+        "address": "Anfield, Anfield Road, Liverpool, L4 0TH"
+    },
+    "contact": {
+        "phone": "+44 (0)151 263 2361",
+        "officialWebsite": "www.liverpoolfc.com"
+    }
+    
+},
+{
+    "name": "Man City",
+    "fullName": "Manchester City",
+    "nickName": "MAN",
+    "stadiumInfo": {
+        "name": "Etihad Stadium",
+        "capacity": 55017,
+        "built": "2002",
+        "pitchSize": "105m x 68m",
+        "address": "Etihad Stadium, Etihad Campus, Manchester, M11 3FF"
+    },
+    "contact": {
+        "phone": "+44 (0) 161 444 1894",
+        "officialWebsite": "www.mancity.com"
+    }
+    
+},
+{
+    "name": "Man Utd",
+    "fullName": "Manchester United",
+    "nickName": "MUN",
+    "stadiumInfo": {
+        "name": "Old Trafford",
+        "capacity": 74879,
+        "built": "1909",
+        "pitchSize": "105m x 68m",
+        "address": "Sir Matt Busby Way, Old Trafford, Manchester, M16 0RA"
+    },
+    "contact": {
+        "phone": "+44 (0) 161 868 8000",
+        "officialWebsite": "www.manutd.com"
+    }
+    
+},
+{
+    "name": "Newcastle",
+    "fullName": "Newcastle United",
+    "nickName": "NEW",
+    "stadiumInfo": {
+        "name": "St. James' Park",
+        "capacity": 52305,
+        "built": "1892",
+        "pitchSize": "105m x 68m",
+        "address": "St. James' Park, Strawberry Place, Newcastle Upon Tyne, NE1 4ST"
+    },
+    "contact": {
+        "phone": "+44 (0) 844 372 1892",
+        "officialWebsite": "www.nufc.co.uk"
+    }
+    
+},
+{
+    "name": "Sheffield Utd",
+    "fullName": "Sheffield United",
+    "nickName": "SHE",
+    "stadiumInfo": {
+        "name": "Bramall Lane",
+        "capacity": 32050,
+        "built": "1855",
+        "pitchSize": "102m x 66m",
+        "address": "Bramall Lane, Sheffield, South Yorkshire, S2 4SU"
+    },
+    "contact": {
+        "phone": "0114 253 7200",
+        "officialWebsite": "www.sufc.co.uk"
+    }
+    
+},
+{
+    "name": "Southampton",
+    "fullName": "Southampton",
+    "nickName": "SOU",
+    "stadiumInfo": {
+        "name": "St. Mary's Stadium",
+        "capacity": 32384,
+        "built": "2001",
+        "pitchSize": "105m x 68m",
+        "address": "St Mary's Stadium, Britannia Road, Southampton, SO14 5FP"
+    },
+    "contact": {
+        "phone": "+44 (0) 845 688 9448",
+        "officialWebsite": "www.southamptonfc.com"
+    }
+    
+},
+{
+    "name": "Spurs",
+    "fullName": "Tottenham Hotspur",
+    "nickName": "TOT",
+    "stadiumInfo": {
+        "name": "Tottenham Hotspur Stadium",
+        "capacity": 62062,
+        "built": "2019",
+        "pitchSize": "100m x 67m",
+        "address": "Lilywhite House, 782 High Road, Tottenham, London, N17 0BX"
+    },
+    "contact": {
+        "phone": "+44 (0) 344 499 5000",
+        "officialWebsite": "www.tottenhamhotspur.com"
+    }
+    
+},
+{
+    "name": "West Brom",
+    "fullName": "West Bromwich Albion",
+    "nickName": "BRI",
+    "stadiumInfo": {
+        "name": "The Hawthorns",
+        "capacity": 26688,
+        "built": "1900",
+        "pitchSize": "105m x 68m",
+        "address": "The Hawthorns, West Bromwich, West Midlands, B71 4LF"
+    },
+    "contact": {
+        "phone": "+44 (0) 871 271 1100",
+        "officialWebsite": "www.wba.co.uk"
+    }
+    
+},
+{
+    "name": "West Ham",
+    "fullName": "West Ham United",
+    "nickName": "WES",
+    "stadiumInfo": {
+        "name": "London Stadium",
+        "capacity": 60000,
+        "built": "2011",
+        "pitchSize": "105m x 68m",
+        "address": "London Stadium, Queen Elizabeth Olympic Park, London, E20 2ST"
+    },
+    "contact": {
+        "phone": "+44 (0)20 85482748",
+        "officialWebsite": "www.whufc.com"
+    }
+    
+},
+{
+    "name": "Wolves",
+    "fullName": "Wolverhampton Wanderers",
+    "nickName": "WOL",
+    "stadiumInfo": {
+        "name": "Molineux Stadium",
+        "capacity": 32050,
+        "built": "1889",
+        "pitchSize": "105m x 68m",
+        "address": "Molineux Stadium, Waterloo Rd, Wolverhampton, WV1 4QR"
+    },
+    "contact": {
+        "phone": "+44 (0) 871 222 1877",
+        "officialWebsite": "www.wolves.co.uk"
+    }
+    
+}
+]
